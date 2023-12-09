@@ -1,5 +1,3 @@
-# Algoselect
-
 ![Algoselect Logo](https://github.com/deadshot-21/algoselect/blob/main/assets/images/logo.png)
 
 Algoselect is a mobile application designed to simplify the selection process of cryptographic schemes based on individual user requirements. This README file provides an overview of the project, its design, implementation, and instructions on building the APK.
